@@ -10,7 +10,7 @@
 
 **Usage**
 * Data Preparation
-* Place your dataset in the data directory. Ensure your dataset is in CSV format with appropriate headers.
+* Place your dataset in the data directory. Ensure your dataset is in CSV format with appropriate headers. 
 
 **Results**
 The results, including model coefficients, performance metrics, and visualizations, will be saved in the results directory.
